@@ -1,0 +1,11 @@
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\bin\Debug\Genetic TSP.exe.config
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\bin\Debug\Genetic TSP.exe
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\bin\Debug\Genetic TSP.pdb
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\bin\Debug\Genetic TSP.xml
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic TSP.vbprojAssemblyReference.cache
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic_TSP.Resources.resources
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic TSP.vbproj.GenerateResource.cache
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic TSP.vbproj.CoreCompileInputs.cache
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic TSP.exe
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic TSP.xml
+C:\Users\tomat\Documents\Code\Genetic TSP\Genetic TSP\obj\Debug\Genetic TSP.pdb
